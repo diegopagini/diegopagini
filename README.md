@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/diego53130545" target="blank"><img src="https://img.shields.io/twitter/follow/diego53130545?logo=twitter&style=for-the-badge" alt="diego53130545" /></a> </p>
 
-- 🔭 I’m currently working on [Angular Proyects]
+- 🔭 I’m currently working on [Angular Proyects](https://github.com/diegopagini/Users-Manager_Angular)
 
 - 🌱 I’m currently learning **Angular, Typescript and more.**
 
