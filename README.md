@@ -3,17 +3,15 @@
 
 <p align="left"> <a href="https://twitter.com/diego53130545" target="blank"><img src="https://img.shields.io/twitter/follow/diego53130545?logo=twitter&style=for-the-badge" alt="diego53130545" /></a> </p>
 
-- 🔭 I’m currently working on [A WeatherBit Proyect](https://github.com/diegopagini/WeatherBit_Angular)
+- 🔭 I’m currently working on [Angular Proyects]
 
-- 🌱 I’m currently learning **Frameworks, courses and more.**
+- 🌱 I’m currently learning **Angular, Typescript and more.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/diegopagini?tab=repositories](https://github.com/diegopagini?tab=repositories)
 
-- 💬 Ask me about **HTML, Javascript and CSS**
-
 - 📫 How to reach me **https://www.linkedin.com/in/diego-pagini-3b5401189/**
 
-- ⚡ Fun fact **I'm a geek and gammer**
+- ⚡ Fun fact **I love studying and learning about new things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
