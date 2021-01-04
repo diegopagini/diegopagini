@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diego Pagini</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <a href="https://twitter.com/diego53130545" target="blank"><img src="https://img.shields.io/twitter/follow/diego53130545?logo=twitter&style=for-the-badge" alt="diego53130545" /></a> </p>
 
 - 🔭 I’m currently working on [Angular Proyects](https://github.com/diegopagini/FireChat)
 
