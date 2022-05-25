@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Angular Proyects](https://ecommerce-angular-aba12.web.app/)
 
-- 🌱 I’m currently learning **Angular, Typescript and more.**
+- 🌱 I’m currently learning **Angular, React, Typescript and more.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/diegopagini?tab=repositories](https://github.com/diegopagini?tab=repositories)
 
