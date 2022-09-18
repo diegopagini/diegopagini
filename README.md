@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 
-- 🔭 I’m currently working on [Angular Proyects](https://ecommerce-angular-aba12.web.app/)
+- 🔭 I’m currently working on [Node Proyects](https://github.com/diegopagini/Todo-list-Console-interactive_Node)
 
 - 🌱 I’m currently learning **Angular, React, Typescript and more.**
 
