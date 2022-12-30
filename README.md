@@ -41,8 +41,10 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://icongr.am/devicon/google-original.svg?size=128&color=currentColor" alt="xd" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://icongr.am/devicon/gitlab-original.svg?size=128&color=currentColor" alt="xd" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://icongr.am/devicon/bitbucket-original.svg?size=128&color=currentColor" alt="xd" width="40" height="40"/> </a> 
-<a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="next" width="40" height="40"/> </a>
+<a href="https://nextjs.org/" target="_blank"> <img src="https://media.graphassets.com/VKHHNvEETYqZRkqgjybc" alt="next" width="40" height="40"/> </a>
 <a href="https://nodejs.org/es/" target="_blank"> <img src="https://midu.dev/images/tags/node.png" alt="node" width="40" height="40"/> </a>
+<a href="https://nestjs.com/" target="_blank"> <img src="https://docs.nestjs.com/assets/logo-small.svg" alt="nest" width="40" height="40"/> </a>
+ 
  
  
 </p>
