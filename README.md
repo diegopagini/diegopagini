@@ -45,7 +45,9 @@
 <a href="https://nextjs.org/" target="_blank"> <img src="https://media.graphassets.com/VKHHNvEETYqZRkqgjybc" alt="next" width="40" height="40"/> </a>
 <a href="https://nodejs.org/es/" target="_blank"> <img src="https://midu.dev/images/tags/node.png" alt="node" width="40" height="40"/> </a>
 <a href="https://nestjs.com/" target="_blank"> <img src="https://docs.nestjs.com/assets/logo-small.svg" alt="nest" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="40" height="40"/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="40" height="40"/> 
+<a href="https://qwik.builder.io" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi2N9OTUzAeBaeYwTr0CuHwVIgPUe9YVg66WWVAN8&s" alt="qwik" width="40" height="40"/> 
+ </a>
  
  
  
