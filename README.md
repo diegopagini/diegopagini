@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 
-- 🔭 I’m currently working on [Node Proyects](https://github.com/diegopagini/Todo-list-Console-interactive_Node)
+- 🔭 I’m currently working on [Qwik Proyects](https://github.com/diegopagini?tab=repositories)
 
 - 🌱 I’m currently learning **Angular, React, Typescript, NestJs and more.**
 
