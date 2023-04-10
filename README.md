@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Qwik Proyects](https://github.com/diegopagini?tab=repositories)
 
-- 🌱 I’m currently learning **Angular, React, Typescript, NestJs and more.**
+- 🌱 I’m currently learning **Angular, React, Typescript, Qwik and more.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/diegopagini?tab=repositories](https://github.com/diegopagini?tab=repositories)
 
