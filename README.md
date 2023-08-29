@@ -48,7 +48,7 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="40" height="40"/> 
 <a href="https://qwik.builder.io" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi2N9OTUzAeBaeYwTr0CuHwVIgPUe9YVg66WWVAN8&s" alt="qwik" width="40" height="40"/> 
  </a>
- 
+
 
  
  
