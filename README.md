@@ -16,7 +16,6 @@
 <p align="left">
 <a href="https://twitter.com/diego53130545" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="diego53130545" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/diego pagini" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="diego pagini" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/188803" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="188803" height="30" width="40" /></a>
 <a href="https://fb.com/diego pagini" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="diego pagini" height="30" width="40" /></a>
 <a href="https://instagram.com/diegohp-dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="diegohp-dev" height="30" width="40" /></a>
 </p>
