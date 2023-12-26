@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/diego pagini" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="diego pagini" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/diego-pagini-3b5401189" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="diego pagini" height="30" width="40" /></a>
 <a href="https://instagram.com/diegohp-dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="diegohp-dev" height="30" width="40" /></a>
 </p>
 
