@@ -46,6 +46,8 @@
 <a href="https://qwik.builder.io" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi2N9OTUzAeBaeYwTr0CuHwVIgPUe9YVg66WWVAN8&s" alt="qwik" width="40" height="40"/> 
 <a href="https://github.com/python" target="_blank"> <img src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4" alt="python" width="40" height="40"/> 
 <a href="https://flutter.dev" target="_blank"> <img src="https://assets-global.website-files.com/5ee12d8d7f840543bde883de/5ef3a1148ac97166a06253c1_flutter-logo-white-inset.svg" alt="flutter" width="40" height="40"/> 
+<a href="https://dart.dev/" target="_blank"> <img src="https://www.christianfindlay.com/assets/images/blog/dart/dart.png" alt="dart" width="40" height="40"/> 
+
 
 
 </p>
