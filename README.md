@@ -29,7 +29,7 @@ I'm currently learning about artificial intelligence and exploring how it can su
 
 ### Selected Angular projects
 
-These projects and technical demos explore different parts of frontend development:
+Over the past few years, I've focused primarily on my professional work, with less time dedicated to personal projects. The selection below reflects earlier personal projects and technical explorations across different areas of frontend development.
 
 | Project | Focus |
 | --- | --- |
