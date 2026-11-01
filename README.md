@@ -2,9 +2,6 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 
-- 🔭 I’m currently working on [Flutter Proyects](https://github.com/diegopagini?tab=repositories)
-
-- 🌱 I’m currently learning **Angular, React, Typescript, Flutter and more.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/diegopagini?tab=repositories](https://github.com/diegopagini?tab=repositories)
 
