@@ -2,7 +2,7 @@
 
 # Diego Pagini
 
-### Frontend Developer | Angular · TypeScript · RxJS
+### Frontend Developer | Angular · TypeScript 
 
 Building web applications with care, curiosity, and a focus on maintainability.
 
