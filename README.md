@@ -13,7 +13,3 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/diego-pagini-3b5401189" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="diego pagini" height="30" width="40" /></a>
 <a href="https://instagram.com/diegohp-dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="diegohp-dev" height="30" width="40" /></a>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegopagini&show_icons=true&locale=en&layout=compact" alt="diegopagini" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diegopagini&show_icons=true&locale=en" alt="diegopagini" /></p>
